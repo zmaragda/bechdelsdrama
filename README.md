@@ -2,18 +2,23 @@
 
 Vorläufige Version 1:
 
-Dramatische Werke im Bechdel-Test.
-Ein Ansatz für eine Methode der automatisierten Genderanalyse. 
+                                              Dramatische Werke im Bechdel-Test.
+                                Ein Ansatz für eine Methode der automatisierten Genderanalyse. 
 
 1 Der Bechdel-Test
 
-  [EINFÜHRUNG EINFÜGEN]
-  
-1.1. Adaptierte Bedingungen des Bechdel-Tests
-  
-  [EINFÜHRUNG EINFÜGEN]
+  1985 etabliert Alison Bechdel in der Comicserie „Dykes to watch out for“ einen Test, der über 30 Jahre später zum popkulturell-feministischen Phänomen für FilmkritikerInnen wurde. In seiner bestechlichen Einfachheit, gilt der Test als bestanden, wenn ein Film drei Fragen positiv beantwortet:
+  •	Gibt es mindestens zwei Frauenrollen, die namentlich erwähnt werden?
+  •	Sprechen diese miteinander?
+  •	Reden die Frauen miteinander über etwas anderes als Männer?
 
+Neben all der berechtigten, auf wissenschaftlich-qualitative Mängel bezogenen Kritik, gibt der Bechdel-Test trotzdem Aufschluss über ein Geschlechter-Missverhältnis, dessen Betrachtung auch für die Dramenanalyse interessant ist. Die Adaptierung des für Filme konzipierten Tests auf Dramen ist zulässig, da der Bechdel-Test auf etwas verweist, das bereits sehr früh im kreativen Prozess entsteht: die Handlung und die Figurenentwicklung.
 
+Mithilfe von digitalen Methoden ist es möglich, große Datenmengen schnell und einfach zu verarbeiten. Dramen eignen sich in besonderer Weise dafür, da eine eindeutige Zuordnung von Redebeiträgen erfolgt. Der XML-basierte TEI-Standard ermöglicht es folgerichtig, Metainformationen und Tags in die Verarbeitung einzubinden.
+
+Für die Dramenanalyse ergeben sich dadurch eine Vielzahl an Möglichkeiten. Mithilfe von einfachen Befehlen ist etwa die Ausweisung einzelner Figuren-Aktivitäten, wie die Anzahl der Verse und Wörter verfügbar. Entsprechend aufbereitete Daten geben Information preis, die ohne digitale Methoden nur sehr schwer herauszuarbeiten sind. Quantitative Analysen und Vergleiche werden dadurch in großem Umfang möglich.
+
+Beim Gender-Aspekt betritt dieses Projekt überraschenderweise Neuland. Zwar lässt sich konstatieren, dass Tools der Digital Humanities für gender-bezogene Analysen sehr wohl zur Verfügung stehen, das aber eher der meist breiten Ausrichtung dieser Analyse-Tools geschuldet ist. Mit der Festlegung auf den Bechdel-Test als Ausgangspunkt der Analyse-Ambitionen ist dieses Projekt durchaus an die Grenzen der digitalen Möglichkeiten gekommen, da auf ein „close reading“ nicht verzichtet werden kann, wie die Dokumentation in Punkt 3 zeigt.
 
 
 3.1. Festlegung der Forschungsparameter
